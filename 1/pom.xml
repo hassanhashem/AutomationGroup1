@@ -7,6 +7,7 @@
   
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependencies>
 	<dependency>
     <groupId>org.seleniumhq.selenium</groupId>
