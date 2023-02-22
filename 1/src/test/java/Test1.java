@@ -8,7 +8,7 @@ public class Test1 {
 		//String projectpath=System.getProperty("user.dir");
 		//System.setProperty("webdriver.chrome.driver", projectpath+"/drivers/chromedriver.exe");
 		//WebDriverManager.chromedriver().setup();
-		WebDriver driver = new ChromeDriver ();
-		driver.get("https://masrawy.com");			
+		//WebDriver driver = new ChromeDriver ();
+		//driver.get("https://masrawy.com");			
 	}	
 }
