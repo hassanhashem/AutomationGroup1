@@ -10,6 +10,6 @@ public class Test1 {
 		//WebDriverManager.chromedriver().setup();
 		//WebDriver driver = new ChromeDriver ();
 		//driver.get("https://masrawy.com");	
-		//My Name is hassan 
+		
 	}	
 }
